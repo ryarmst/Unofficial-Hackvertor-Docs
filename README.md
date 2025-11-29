@@ -1,6 +1,6 @@
 # Unofficial Hackvertor Documentation
 
-Hackvertor is a tag-based conversion extension for Burp Suite. It allows encoding, decoding, and transforming text using a simple tag syntax.
+Hackvertor is a tag-based conversion extension for Burp Suite by Gareth Hayes (available [here](https://github.com/hackvertor/hackvertor)). This documentation was created with the assistance of an LLM-integrated IDE. While I (Ryan) reviewed the content and made some corrections/changes, there may nevertheless be some errors. 
 
 ## Tag Syntax
 
